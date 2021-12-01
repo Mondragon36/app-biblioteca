@@ -1,0 +1,70 @@
+views/RegistroPublisherView.java
+ views.RegistroPublisherView
+ views.RegistroPublisherView$1
+ views.RegistroPublisherView$2
+views/RegistroBookView.java
+ views.RegistroBookView
+ views.RegistroBookView$1
+ views.RegistroBookView$2
+views/RegistroBorrowView.java
+ views.RegistroBorrowView
+ views.RegistroBorrowView$1
+views/RegistroAutorView.java
+ views.RegistroAutorView
+ views.RegistroAutorView$1
+ views.RegistroAutorView$2
+controlador/CrudPublisherController.java
+ controlador.CrudPublisherController
+modelos/Publisher.java
+ modelos.Publisher
+views/EntregaBookView.java
+ views.EntregaBookView
+ views.EntregaBookView$1
+biblioteca/Main.java
+ biblioteca.Main
+views/PrincipalView.java
+ views.PrincipalView
+ views.PrincipalView$1
+ views.PrincipalView$2
+ views.PrincipalView$3
+ views.PrincipalView$4
+ views.PrincipalView$5
+ views.PrincipalView$6
+ views.PrincipalView$7
+ views.PrincipalView$8
+ views.PrincipalView$9
+views/RegistroUserView.java
+ views.RegistroUserView
+ views.RegistroUserView$1
+modelos/APIError.java
+ modelos.APIError
+clientes/PublisherClient.java
+ clientes.PublisherClient
+clientes/AuthorClient.java
+ clientes.AuthorClient
+modelos/User.java
+ modelos.User
+clientes/BookClient.java
+ clientes.BookClient
+views/ListBooksView.java
+ views.ListBooksView
+ views.ListBooksView$1
+ views.ListBooksView$2
+controlador/CrudBookController.java
+ controlador.CrudBookController
+controlador/CrudAuthorController.java
+ controlador.CrudAuthorController
+clientes/BorrowClient.java
+ clientes.BorrowClient
+controlador/CrudBorrowController.java
+ controlador.CrudBorrowController
+controlador/CrudUserController.java
+ controlador.CrudUserController
+clientes/UserClient.java
+ clientes.UserClient
+modelos/BorrowRequest.java
+ modelos.BorrowRequest
+modelos/Book.java
+ modelos.Book
+modelos/Author.java
+ modelos.Author
